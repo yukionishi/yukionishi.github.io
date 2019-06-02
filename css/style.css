@@ -410,6 +410,9 @@ ol.type li a:hover {
 	padding: 100px 0;
 	background: #7bc3d1;
 }
+#education hr {
+	background: rgba(255, 255, 255, 0.3);
+}
 .timeline {
 	position: relative;
 	padding: 0;
