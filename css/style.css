@@ -512,6 +512,16 @@ ol.type li a:hover {
 .timeline .timeline-body>p, .timeline .timeline-body>ul {
 	margin-bottom: 0;
 }
+
+/* Publication Section */
+#pablication {
+	padding: 80px 0;
+	background: #ffffff; 
+}
+#pablication hr {
+	background: rgba(255, 255, 255, 0.3);
+}
+
 /* Contact Section */
 #contact {
 	padding: 100px 0 40px 0;
